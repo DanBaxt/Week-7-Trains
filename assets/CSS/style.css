@@ -1,0 +1,17 @@
+.jumbotron {
+    background-color:rgb(63, 15, 63);
+    color: white;
+}
+.panel-primary {
+    border-color:rgb(63, 15, 63);
+}
+.panel-primary>.panel-heading {
+    background-color:rgb(63, 15, 63);
+}
+#add-train-btn {
+    background-color:rgb(63, 15, 63)e;
+    border-color:rgb(63, 15, 63);
+}
+body {
+    background-color: rgb(31, 31, 73);
+}
